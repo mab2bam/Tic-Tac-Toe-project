@@ -33,10 +33,9 @@ A simple Tic-Tac-Toe game developed using Python and tkinter. The game features 
 - Use the "Restart" button to start a new game or "Exit" to close the application.
 
 ## Acknowledgments
-geekfogeek.com
-https://youtu.be/nbRpDXV7QDM?si=uAYkPSC70Zwr_8yK from a youtube channel named kenny yip coding
-https://youtu.be/dK6gJw4-NCo?si=WQ1vmB2IYfHS-sKO from a youtube channel named code coach
-https://youtu.be/V9MbQ2Xl4CE?si=ZF8-aP2X1tf0KQyp from a youtube channel named bro code
+2.https://youtu.be/nbRpDXV7QDM?si=uAYkPSC70Zwr_8yK from a youtube channel named kenny yip coding
+3.https://youtu.be/dK6gJw4-NCo?si=WQ1vmB2IYfHS-sKO from a youtube channel named code coach
+4.https://youtu.be/V9MbQ2Xl4CE?si=ZF8-aP2X1tf0KQyp from a youtube channel named bro code
 
 ## License
 This project is licensed under the MIT License - see the MIT LICENSE file for details.
