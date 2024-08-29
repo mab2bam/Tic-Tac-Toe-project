@@ -2,6 +2,9 @@
 
 A simple Tic-Tac-Toe game developed using Python and tkinter. The game features a 3x3 grid where two players (X and O) can compete against each other. The game includes a scoring system to track wins, losses, and draws, with options to restart or exit the game.
 
+## to follow through my journey
+https://medium.com/@angelgarg476/developing-a-tic-tac-toe-game-in-python-0c57e12b96f1
+
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
